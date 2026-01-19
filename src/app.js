@@ -91,10 +91,4 @@ const numero = 5
 //{} es true
 
 
-const departamentos = ["Montevideo", "Maldonado", "Artigas", "Salto", "Colonia"]
-
-const randomIndex = Math.floor(Math.random() * departamentos.length)
-
-console.log(departamentos[randomIndex])
-
 
